@@ -1,0 +1,27 @@
+.troma-val-style {
+	padding: 3em 0;
+	@media screen and (max-width :$screen-sm) {
+		padding: 2em 0;
+	}
+}
+
+
+.troma-val-style{
+  background: lighten($brand-black, 15%);
+
+  .fh5co-heading {
+		color: $brand-white;
+	}
+  h3{
+    color : $brand-white;
+  }
+
+  .troma-flex{
+    display: flex;
+    margin-top: 20px;
+  }
+
+  @media screen and (max-width: $screen-sm) {
+		display: block;
+	}
+}
