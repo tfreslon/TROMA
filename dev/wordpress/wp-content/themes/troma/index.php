@@ -38,7 +38,7 @@
 								<div class="col-md-push-6 col-md-6 full-height js-full-height">
 									<div class="fh5co-cover-intro">
 										<h1 class="cover-text-lead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Optimisateur de r&eacute;&eacute;ducation</h1>
-										<h2 class="cover-text-sublead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">Avec TROMA, Technologie de Rééducation Optimisée à la Maison et en Autonomie, offrez à vos patients l'expérience d'un <b style="color : #ca1f1f;">meilleur accompagnement</b> à la sortie de votre cabinet.</h2>
+										<h2 class="cover-text-sublead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">Avec TROMA, Technologie de Rééducation Optimisée à la Maison et en Autonomie, offrez à vos patients l'expérience d'un <b>meilleur accompagnement</b> à la sortie de votre cabinet.</h2>
 										<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s"><a href="#info" class="btn btn-primary btn-outline btn-lg page-scroll">En savoir plus</a></p>
 									</div>
 								</div>
@@ -53,9 +53,9 @@
 					<div class="container">
 						<div class="row p-b">
 							<div class="col-md-6 col-md-offset-3 text-center">
-								<h2 class="fh5co-heading wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Qu'est ce que c'est ?</h2>
-								<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">En quelques clics, prescrivez leurs des exercices, accompagnés de <b>vidéos explicatives</b>, qu'ils pourront consulter chez eux, grâce à notre application. Cette solution <b>personnalisée et adaptée</b> aux besoins de chacun de vos patients, va vous permettre d'assurer une continuité de leur prise en charge jusque dans leur salon.</p>
-								<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">Grâce à un système de <b>tableau de bord</b>, vous pourrez également suivre leur implication mais aussi leur <b>ressenti</b> sur les exercices que vous leur avez donné à faire.</p>
+								<h2 class="fh5co-heading  fadeInUp" >Qu'est ce que c'est ?</h2>
+								<p>En quelques clics, prescrivez des exercices accompagnés de <b>vidéos explicatives</b> à vos patients, qu'ils pourront ensuite consulter chez eux, grâce à notre application. Cette solution <b>personnalisée et adaptée</b> aux besoins de chacun de vos patients, va vous permettre d'assurer une continuité de leur prise en charge jusque dans leur salon.</p>
+								<p>Grâce à un système de <b>tableau de bord</b>, vous pourrez également suivre leur implication mais aussi leur <b>ressenti</b> sur les exercices que vous leur avez donné à faire.</p>
 							</div>
 						</div>
 					</div>
@@ -67,25 +67,24 @@
 							<div class="row">
 								<div class="row">
 									<div class="col-md-6 col-md-offset-3 text-center">
-										<h2 class="fh5co-heading wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Dans quel but ?</h2>
-										<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">Ce sont les principales raisons qui vous feront utiliser TROMA.</p>
+										<h2 class="fh5co-heading">Dans quel but ?</h2>
 									</div>
 								</div>
 							</div>
 							<div class="row">
 								<div class="pricing">
-											<div class="pricing-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s">
+											<div class="pricing-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
 														<img src="wp-content/themes/troma/images/optimiser.png" alt="">
-													 <h3 class="pricing-title">Optimiser la rééduction</h3>
-													 <p class="pricing-sentence">Grâce à des exercices expliqués simplement et des vidéos détaillées pour le patient</p>
+													 <h3 class="pricing-title">Optimiser la rééducation</h3>
+													 <p class="pricing-sentence">Grâce à des exercices expliqués simplement et à des vidéos détaillées pour le patient</p>
 
 											 </div>
-											 <div class="pricing-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.4s">
+											 <div class="pricing-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.5s">
 													<img src="wp-content/themes/troma/images/faciliter.png" alt="">
 													 <h3 class="pricing-title">Faciliter le suivi à domicile</h3>
 													 <p class="pricing-sentence">Grâce à un retour de l'utilisateur à la fin de chaque séance</p>
 											 </div>
-											 <div class="pricing-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">
+											 <div class="pricing-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="2s">
 													 <img src="wp-content/themes/troma/images/accompagner.png" alt="">
 													 <h3 class="pricing-title">Accompagner le patient</h3>
 													 <p class="pricing-sentence">Grâce à une application au contenu adapté et personnalisé propre à son besoin</p>
@@ -100,13 +99,13 @@
 						<div class="fh5co-overlay"></div>
 						<div class="container" style="z-index: 3; position: relative;">
 							<div class="row p-b">
-								<div class="col-md-6 col-md-offset-3 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+								<div class="col-md-6 col-md-offset-3 text-center">
 									<h2 class="fh5co-heading">Les avantages</h2>
 								</div>
 							</div>
 							<div class="row">
 								<div class="fh5co-features">
-									<div class="fh5co-feature wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+									<div class="fh5co-feature ">
 										<h3>Kiné</h3>
 											<div class="troma-wrap">
 												<div class="troma-content">
@@ -120,14 +119,14 @@
 									</div>
 
 
-									<div class="fh5co-feature wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s">
+									<div class="fh5co-feature">
 										<h3>Patient</h3>
 										<div class="troma-wrap">
 											<div class="troma-content">
 												<p>Une application mobile qui peut le suivre partout</p>
-												<p>Du contenu adapté et réajusté par son kiné</p>
+												<p>Du contenu adapté et ajusté par son kiné</p>
 												<p>Des explications et des vidéos simples</p>
-												<p>Un moyen de dire comment ça s'est passé</p>
+												<p>Un moyen de donner son ressenti sur la séance</p>
 											</div>
 										</div>
 									</div>
@@ -141,27 +140,28 @@
 						<div class="container">
 							<div class="row p-b">
 								<div class="col-md-6 col-md-offset-3 text-center">
-									<h2 class="fh5co-heading wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">L'équipe</h2>
-									<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">Ceux avec qui vous viverez l'expérience TROMA</p>
+									<h2 class="fh5co-heading">L'équipe</h2>
+									<p>Ceux avec qui vous vivrez l'expérience TROMA</p>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-4 col-sm-6 col-xs-12">
-									<div class="fh5co-testimonial-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s">
+									<div class="fh5co-testimonial-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
 										<div class="fh5co-name">
 											<img src="wp-content/themes/troma/images/Florian.png" alt="">
 											<div class="fh5co-meta">
 												<h3>Florian Breteau</h3>
-												<span class="fh5co-company">Kiné</span>
+												<span class="fh5co-company">Kinésithérapeute</span>
 											</div>
 										</div>
 										<div class="fh5co-text">
-											<p>Le kiné sans qui cette idée n'aurait jamais vu le jour</p>
+											<!-- <p>Le kiné sans qui cette idée n'aurait jamais vu le jour</p> -->
+											<p>"L’optimisation de la rééducation est le fondement de ma prise en charge du patient"</p>
 										</div>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-6 col-xs-12">
-									<div class="fh5co-testimonial-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.4s">
+									<div class="fh5co-testimonial-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.5s">
 										<div class="fh5co-name">
 											<img src="wp-content/themes/troma/images/Thomas.png" alt="">
 											<div class="fh5co-meta">
@@ -170,7 +170,8 @@
 											</div>
 										</div>
 										<div class="fh5co-text">
-											<p>Le &ldquo;geek&rdquo; de la bande, qui s'occupe du développement de la solution</p>
+											<!-- <p>Le &ldquo;geek&rdquo; de la bande, qui s'occupe du développement de la solution</p> -->
+											<p>" Mon rôle dans TROMA : mettre le numérique au service de la santé avec une solution technique adaptée"</p>
 										</div>
 									</div>
 								</div>
@@ -178,7 +179,7 @@
 								<div class="clearfix visible-sm-block"></div>
 
 								<div class="col-md-4 col-sm-6 col-xs-12">
-									<div class="fh5co-testimonial-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">
+									<div class="fh5co-testimonial-item wow fadeInUp" data-wow-duration="1s" data-wow-delay="2s">
 										<div class="fh5co-name">
 											<img src="wp-content/themes/troma/images/Cecile.png" alt="">
 											<div class="fh5co-meta">
@@ -187,7 +188,8 @@
 											</div>
 										</div>
 										<div class="fh5co-text">
-											<p>L'experte en UX, qui fait en sorte que ce soit facile à utiliser</p>
+											<!-- <p>L'experte en UX, qui fait en sorte que ce soit facile à utiliser</p> -->
+											<p>"Je mettrais tout en œuvre pour que TROMA réponde aux besoins des kinés et des patients"</p>
 										</div>
 									</div>
 								</div>
@@ -201,12 +203,12 @@
 						<div class="container">
 							<div class="row p-b">
 								<div class="col-md-6 col-md-offset-3 text-center">
-									<h2 class="fh5co-heading wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Contact</h2>
-									<p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">Vous êtes intéressé par la solution TROMA ? <br>N'hésitez pas à nous envoyer un petit message pour connaitre nos actualités et être le premier averti de sa commercialisation.</p>
+									<h2 class="fh5co-heading ">Contact</h2>
+									<p>Vous êtes intéressé par la solution TROMA ? <br>N'hésitez pas à nous envoyer un petit message pour connaitre nos actualités et être le premier averti de sa commercialisation.</p>
 								</div>
 							</div>
 							<div class="row p-b">
-								<div class="col-md-7 col-sm-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.4s">
+								<div class="col-md-7 col-sm-6">
 									<!-- <h3>Contactez nous</h3> -->
 									<form class="troma-form-footer" action="<?php echo strip_tags($_SERVER['REQUEST_URI']); ?>" onsubmit="return validateForm(this)" method="post">
 										<div class="col-md-6">
